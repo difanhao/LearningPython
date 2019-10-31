@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="517b551e-b419-4213-aed1-73a6b48bc73c" name="Default Changelist" comment="" />
+    <list default="true" id="517b551e-b419-4213-aed1-73a6b48bc73c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SuanFaTuJieBookStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SuanFaTuJieBookStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mianshi/.idea/mianshi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mianshi/.idea/mianshi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mianshi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mianshi/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-464307317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="SuanFaTuJieBookStudy" />
@@ -58,12 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <marker date="1569771129813" expanded="true" signature="43:44" ph="..." />
-                <marker date="1569771129813" expanded="true" signature="43:48" ph="..." />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -76,6 +85,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,10 +103,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="96" />
-    <option name="y" value="14" />
-    <option name="width" value="1353" />
-    <option name="height" value="788" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -175,10 +187,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48387095" visible="true" weight="0.15658094" />
-      <window_info id="Structure" order="1" sideWeight="0.516129" side_tool="true" visible="true" weight="0.15658094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48264644" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" sideWeight="0.5173536" side_tool="true" visible="true" weight="0.15831557" />
       <window_info id="Favorites" order="2" sideWeight="0.5011338" side_tool="true" weight="0.24281392" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -192,6 +205,8 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="SciView" order="0" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="1" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -209,12 +224,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/binarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <marker date="1569771129813" expanded="true" signature="43:44" ph="..." />
-            <marker date="1569771129813" expanded="true" signature="43:48" ph="..." />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>

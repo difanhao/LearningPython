@@ -12,3 +12,5 @@ print map(lambda x: x ** 2, (0, 1, 2, 3, 4, 5))
 print type(map(lambda x: x ** 2, (0, 1, 2, 3, 4, 5))) # <type 'list'>
 
 print map(lambda x, y: x + y, [1, 2, 3], [4, 5, 6]) #长度不同，短的补None
+
+
