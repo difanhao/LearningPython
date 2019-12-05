@@ -13,6 +13,8 @@ for i in iter_l:
 print "------------"
 
 iter_ll = iter(l) # 创建新迭代器，从头开始
+print iter_ll.next()
+print ""
 while True:
     i = next(iter_ll, "end")
     print i

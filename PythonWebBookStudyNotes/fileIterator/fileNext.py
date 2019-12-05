@@ -4,7 +4,7 @@ f = open("ceshi.py")
 print f.next()
 print f.next()
 print f.next()
-#print f.next()
+#print f.next()  # StopIterations
 f.close()
 
 print "----------------------"

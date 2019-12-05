@@ -4,10 +4,10 @@
 
 import myModule
 
-print __doc__
+print __doc__  # None
 
 class MyClass:
-    "MyClass类的描述"
+    '''MyClass类的描述'''
     def printHello(self):
         "printHello()方法用于打印 Hello World"
         print "Hell0 World"
